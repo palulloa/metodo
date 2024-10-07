@@ -1,2 +1,1 @@
-También probé definir primo y después while primo < n...
-De esta manera me tiraba error porque primo lo tomaba como True, y no como un número.
+
